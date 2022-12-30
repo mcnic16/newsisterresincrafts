@@ -34,6 +34,8 @@ body {
     font-size:30px;
 }
 
+
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
@@ -50,6 +52,21 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+
+}
+
+/*------------------------------------------footer-----------*/
+footer {
+    clear: both;
+    text-align: center;
+    padding: 5px;
+    background-image: linear-gradient(135deg, #9f05ff69 10%, #fd5e086b 100%);
+    color: white;
+}
+
+footer a {
+    font-size: 30px;
+    padding: 5px;
 }
 
 /* -------------------------------- Media Queries */
