@@ -44,8 +44,7 @@
     
     <header>
         <div class="navbar">
-            <div class="dropdown">
-                
+            <div class="dropdown basket">
                 <button class="dropbtn">Account
                   <i class="fa fa-caret-down"></i>
                 </button>
@@ -55,7 +54,32 @@
                   <a href="#">Link 3</a>
                 </div>
               </div>
+              <li class="list-inline-item ">
+                <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="">
+                    <div class="text-center basket">
+                        <div><i class="fas fa-shopping-bag fa-lg"></i></div>
+                        <p>
+                            {% if grand_total %}
+                                £{{ grand_total|floatformat:2 }}
+                            {% else %}
+                                £0.00
+                            {% endif %}
+                        </p>
+                    </div>
+                </a>
+            </li>
+            <div class="logoimage">
+                <img class="logo" src="media/logo.png" alt="sister resin craft">
+            </div>
+            <div id="sb-search" class="sb-search">
+                <form>
+                        <input class="sb-search-input" placeholder="Search..." type="text" value="" name="search" id="search" />
+                        <input class="sb-search-submit" type="submit" value="" />
+                    <span class="sb-icon-search"></span>
+                </form>
+            </div>
         </div>
+    </div>
     </header>
     {% if messages %}
         <div class="message-container"></div>

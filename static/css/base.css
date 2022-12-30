@@ -43,7 +43,7 @@ body {
   
   /* Add a red background color to navbar links on hover */
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: purple;
  }
   
   /* Dropdown content (hidden by default) */
@@ -83,3 +83,22 @@ body {
 .about {
     font-size:30px;
 }
+
+.logo {
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 8px;
+    border: 8px solid #fff;
+    margin-left: 150px;  
+    padding-top: 0px;
+  
+  }
+
+  .search {
+    display: inline-block;
+    margin-right: 0px;
+  }
+  
+  
+  
