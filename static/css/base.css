@@ -7,7 +7,7 @@ body {
     height: 100%;
     width: 100%;
     padding: 0;
-    font-family: 'Lobster', cursive;
+    font-family: 'Roboto Slab', serif;
 }
 
 /* from Bulma */
@@ -54,6 +54,11 @@ body {
     border: 1px solid black !important;
 
 }
+
+.bg-black {
+    background: #000 !important;
+}
+
 
 /*------------------------------------------footer-----------*/
 footer {

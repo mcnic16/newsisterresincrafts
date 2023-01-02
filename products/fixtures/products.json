@@ -1,0 +1,34 @@
+[{
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "name": "Autumnal Orange Gold Crystal Trinket Tray",
+            "description": "Trinket Tray",
+            "price": 14.00,
+            "category": 2,
+            "image": "autumnalorangegoldcrystaltrinkettray.jpg"
+        }
+    }, {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "name": "Transparent Xmas Bauball",
+            "description": "Transparent Xmas bauball which can be customised",
+            "price": 14.00,
+            "category": 3,
+            "image": "bauball1.jpg"
+        }
+    }, {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "name": "Transparent Xmas Bauball",
+            "description": "Customised xmas bauball",
+            "price": 14.00,
+            "category": 3,
+            "image": "bauball.jpg"
+        }
+    }
+
+
+]
