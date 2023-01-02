@@ -28,6 +28,56 @@
             "category": 3,
             "image": "bauball.jpg"
         }
+    }, {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "name": "Bumble Bee Coasters",
+            "description": "Set of 2 or 4 bee honeycomb coasters available for personalisation with a name or phrase such as “Bee Kind” - anything you want! £6 each or £20 for a set of 4",
+            "price": 6.00,
+            "category": 1,
+            "image": "beehive.jpg"
+        }
+    }, {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "name": "Beetlejuice Coasters",
+            "description": "Resin Beetlejuice coaster set with anti slip rubber domes underneath. Other designs available, please message us for more details. £6 each or £20 for a set of 4.",
+            "price": 6.00,
+            "category": 1,
+            "image": "beetlejuice.jpg"
+        }
+    }, {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "name": "Blue Glitter Coasters",
+            "description": "Resin Blue Glitter Coasters coaster set. £6 each or £20 for a set of 4.",
+            "price": 6.00,
+            "category": 1,
+            "image": "blueglittercoasters.jpg"
+        }
+    }, {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "name": "Buffy The Vampire Slayer Trinket Tray",
+            "description": "Buffy trinket tray with quote “If the Apocalypse Comes, Beep Me” with blue background and black rim. Available in any colour, just pop us a message.",
+            "price": 14.00,
+            "category": 2,
+            "image": "buffy.jpg"
+        }
+    }, {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "name": "Dirty Dancing Trinket Tray",
+            "description": "Beautifully simple Dirty Dancing inspired trinket tray - perfect for your keys, jewellery, glasses etc.",
+            "price": 14.00,
+            "category": 2,
+            "image": "dirtydancing.jpg"
+        }
     }
 
 
