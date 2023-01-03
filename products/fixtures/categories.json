@@ -1,4 +1,4 @@
-{
+[{
     "pk": 1,
     "model": "products.category",
     "fields": {
@@ -20,3 +20,4 @@
         "friendly_name": "Seasonal"
     }
 }
+]
