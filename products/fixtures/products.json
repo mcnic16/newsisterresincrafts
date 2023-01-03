@@ -258,6 +258,56 @@
             "category": 2,
             "image": "skullandsnake.jpg"
         }
+    }, {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "name": "Horror/Slasher Coasters",
+            "description": "Slasher horror coasters. £6 each or £20 for a set of 4.",
+            "price": 6.00,
+            "category": 1,
+            "image": "slashercoasters.jpg"
+        }
+    }, {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "name": "Scream Blood Spatter Coasters",
+            "description": "Scream quotes coasters in black with white writing and blood spatter. Perfect gift for Scream fans!£6 each or £20 for a set of 4.",
+            "price": 6.00,
+            "category": 1,
+            "image": "slashersayings.jpg"
+        }
+    }, {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "name": "Tea Light Holder",
+            "description": "Tea Light Holder.",
+            "price": 6.00,
+            "category": 2,
+            "image": "tealightholder.jpg"
+        }
+    }, {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "name": "Teal and Gold Leaf Coasters",
+            "description": "Teal and Gold Leaf Coasters.",
+            "price": 14.00,
+            "category": 1,
+            "image": "tealandgoldleafcoasterse.jpg"
+        }
+    }, {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "name": "Wine Glass Holder",
+            "description": "Wine Glass Holder",
+            "price": 6.00,
+            "category": 2,
+            "image": "wineglassholder.jpg"
+        }
     }
 
 ]
