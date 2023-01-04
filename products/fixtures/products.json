@@ -269,7 +269,7 @@
             "image": "slashercoasters.jpg"
         }
     }, {
-        "pk": 21,
+        "pk": 22,
         "model": "products.product",
         "fields": {
             "name": "Scream Blood Spatter Coasters",
@@ -279,7 +279,7 @@
             "image": "slashersayings.jpg"
         }
     }, {
-        "pk": 21,
+        "pk": 23,
         "model": "products.product",
         "fields": {
             "name": "Tea Light Holder",
@@ -289,7 +289,7 @@
             "image": "tealightholder.jpg"
         }
     }, {
-        "pk": 21,
+        "pk": 24,
         "model": "products.product",
         "fields": {
             "name": "Teal and Gold Leaf Coasters",
@@ -299,7 +299,7 @@
             "image": "tealandgoldleafcoasterse.jpg"
         }
     }, {
-        "pk": 21,
+        "pk": 25,
         "model": "products.product",
         "fields": {
             "name": "Wine Glass Holder",
