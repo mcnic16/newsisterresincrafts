@@ -13,23 +13,13 @@
         "model": "products.product",
         "fields": {
             "name": "Transparent Xmas Bauball",
-            "description": "Transparent Xmas bauball which can be customised",
-            "price": 14.00,
-            "category": 3,
-            "image": "bauball1.jpg"
-        }
-    }, {
-        "pk": 3,
-        "model": "products.product",
-        "fields": {
-            "name": "Transparent Xmas Bauball",
             "description": "Customised xmas bauball",
             "price": 14.00,
             "category": 3,
-            "image": "bauball.jpg"
+            "image": "baubaul.jpg"
         }
     }, {
-        "pk": 4,
+        "pk": 3,
         "model": "products.product",
         "fields": {
             "name": "Bumble Bee Coasters",
@@ -85,16 +75,6 @@
             "name": "Flower and gold leaf coasters",
             "description": "Simple but pretty flower coasters, can go with any decor. £17.00 for all 4.",
             "price": 6.00,
-            "category": 2,
-            "image": "flowercoasters.jpg"
-        }
-    }, {
-        "pk": 8,
-        "model": "products.product",
-        "fields": {
-            "name": "Flower and gold leaf coasters",
-            "description": "Simple but pretty flower coasters, can go with any decor. £17.00 for all 4.",
-            "price": 6.00,
             "category": 1,
             "image": "flowercoasters.jpg"
         }
@@ -129,7 +109,7 @@
             "image": "glittergeodecoaster.jpg"
         }
     }, {
-        "pk": 11,
+        "pk": 12,
         "model": "products.product",
         "fields": {
             "name": "Gold Leaf and Clear Phonestand",
@@ -139,7 +119,7 @@
             "image": "goldleafandclearphonestand.jpg"
         }
     }, {
-        "pk": 12,
+        "pk": 13,
         "model": "products.product",
         "fields": {
             "name": "Hocus Pocus Glitter Coasters",
@@ -149,7 +129,7 @@
             "image": "hocuspocus.jpg"
         }
     }, {
-        "pk": 12,
+        "pk": 14,
         "model": "products.product",
         "fields": {
             "name": "Jason Xmas Coaster",
@@ -159,7 +139,7 @@
             "image": "jasonxmas.jpg"
         }
     }, {
-        "pk": 12,
+        "pk": 15,
         "model": "products.product",
         "fields": {
             "name": "Johnny Depp Coaster",
@@ -169,27 +149,27 @@
             "image": "johnnydepp.png"
         }
     }, {
-        "pk": 13,
+        "pk": 16,
         "model": "products.product",
         "fields": {
             "name": "Night Mare before Xmas bauballs",
             "description": "Nightmare before Xmas",
             "price": 6.00,
             "category": 3,
-            "image": "johnnydepp.png"
+            "image": "nightbeforexmas.jpg"
         }
     }, {
-        "pk": 14,
+        "pk": 17,
         "model": "products.product",
         "fields": {
             "name": "orangeandgoldautumnalfloralphonestand.",
             "description": "Orangeandgoldautumnalfloralphonestand.",
             "price": 6.00,
             "category": 2,
-            "image": "orangeandgoldautumnalfloralphonestand.png"
+            "image": "orangeandgoldautumnalfloralphonestand.jpg"
         }
     }, {
-        "pk": 15,
+        "pk": 18,
         "model": "products.product",
         "fields": {
             "name": "orangeandgoldglitter.",
@@ -199,7 +179,7 @@
             "image": "orangeandgoldglitter.jpg"
         }
     }, {
-        "pk": 16,
+        "pk": 19,
         "model": "products.product",
         "fields": {
             "name": "IT Pennywise Trinket Tray.",
@@ -209,7 +189,7 @@
             "image": "pennywise.jpg"
         }
     }, {
-        "pk": 16,
+        "pk": 20,
         "model": "products.product",
         "fields": {
             "name": "Pretty Little Liars Coasters.",
@@ -219,7 +199,7 @@
             "image": "prettylittleliars.jpg"
         }
     }, {
-        "pk": 17,
+        "pk": 21,
         "model": "products.product",
         "fields": {
             "name": "Rune Coasters",
@@ -229,7 +209,7 @@
             "image": "runecoasters.jpg"
         }
     }, {
-        "pk": 18,
+        "pk": 22,
         "model": "products.product",
         "fields": {
             "name": "Scream Xmas Coaster",
@@ -239,7 +219,7 @@
             "image": "screamxmas.jpg"
         }
     }, {
-        "pk": 19,
+        "pk": 23,
         "model": "products.product",
         "fields": {
             "name": "Mike Myers Xmas Coaster",
@@ -249,7 +229,7 @@
             "image": "mike.jpg"
         }
     }, {
-        "pk": 20,
+        "pk": 24,
         "model": "products.product",
         "fields": {
             "name": "Skull and Snake Trinket Tray",
@@ -259,7 +239,7 @@
             "image": "skullandsnake.jpg"
         }
     }, {
-        "pk": 21,
+        "pk": 25,
         "model": "products.product",
         "fields": {
             "name": "Horror/Slasher Coasters",
@@ -269,7 +249,7 @@
             "image": "slashercoasters.jpg"
         }
     }, {
-        "pk": 22,
+        "pk": 26,
         "model": "products.product",
         "fields": {
             "name": "Scream Blood Spatter Coasters",
@@ -279,7 +259,7 @@
             "image": "slashersayings.jpg"
         }
     }, {
-        "pk": 23,
+        "pk": 27,
         "model": "products.product",
         "fields": {
             "name": "Tea Light Holder",
@@ -289,17 +269,17 @@
             "image": "tealightholder.jpg"
         }
     }, {
-        "pk": 24,
+        "pk": 28,
         "model": "products.product",
         "fields": {
             "name": "Teal and Gold Leaf Coasters",
             "description": "Teal and Gold Leaf Coasters.",
             "price": 14.00,
             "category": 1,
-            "image": "tealandgoldleafcoasterse.jpg"
+            "image": "tealandgold.jpg"
         }
     }, {
-        "pk": 25,
+        "pk": 29,
         "model": "products.product",
         "fields": {
             "name": "Wine Glass Holder",

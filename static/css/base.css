@@ -34,16 +34,14 @@ body {
     font-size:30px;
 }
 
-
-
-.shop-now-button:hover,
-.shop-now-button:active,
-.shop-now-button:focus,
-.btn-black:hover,
-.btn-black:active,
-.btn-black:focus {
-    background: #222;
-    color: white;
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: white;
+	z-index: -1;
 }
 
 .text-black {
@@ -59,7 +57,10 @@ body {
     background: #000 !important;
 }
 
-
+.picsize {
+    height: 300px;
+    width: 300px;
+}
 /*------------------------------------------footer-----------*/
 footer {
     clear: both;
