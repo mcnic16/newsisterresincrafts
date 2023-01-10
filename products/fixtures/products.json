@@ -16,7 +16,7 @@
             "description": "Customised xmas bauball",
             "price": 14.00,
             "category": 3,
-            "image": "baubaul.jpg"
+            "image": "baubles_group.jpg"
         }
     }, {
         "pk": 3,
@@ -85,7 +85,7 @@
             "name": "Freddie Xmas Coaster",
             "description": "Freddie Xmas Coaster.",
             "price": 6.00,
-            "category": 1,
+            "category": 3,
             "image": "freddyxmas.jpg"
         }
     }, {
@@ -135,7 +135,7 @@
             "name": "Jason Xmas Coaster",
             "description": "Jason",
             "price": 6.00,
-            "category": 1,
+            "category": 3,
             "image": "jasonxmas.jpg"
         }
     }, {
@@ -215,7 +215,7 @@
             "name": "Scream Xmas Coaster",
             "description": "Scream.",
             "price": 6.00,
-            "category": 1,
+            "category": 3,
             "image": "screamxmas.jpg"
         }
     }, {
@@ -225,7 +225,7 @@
             "name": "Mike Myers Xmas Coaster",
             "description": "Halloween",
             "price": 6.00,
-            "category": 1,
+            "category": 3,
             "image": "mike.jpg"
         }
     }, {
@@ -288,6 +288,46 @@
             "category": 2,
             "image": "wineglassholder.jpg"
         }
+    }, {
+        "pk": 30,
+        "model": "products.product",
+        "fields": {
+            "name": "Freddie Krueger Christmas Card",
+            "description": "Freddie Krueger",
+            "price": 6.00,
+            "category": 3,
+            "image": "freddie_christmas_card.jpg"
+        }
+    }, {
+        "pk": 31,
+        "model": "products.product",
+        "fields": {
+            "name": "Ghostface(Scream) Christmas Card",
+            "description": "Ghostface",
+            "price": 6.00,
+            "category": 3,
+            "image": "ghostface_christmas_card.jpg"
+        }
+    }, {
+        "pk": 32,
+        "model": "products.product",
+        "fields": {
+            "name": "Gold Leaf Phone Holder",
+            "description": "Gold Leaf Phone Holder",
+            "price": 6.00,
+            "category": 3,
+            "image": "gold_leaf_phone_holder.jpg"
+        }
+    }, {
+        "pk": 33,
+        "model": "products.product",
+        "fields": {
+            "name": "Gold Leaf Phone Holder",
+            "description": "Gold Leaf Phone Holder",
+            "price": 6.00,
+            "category": 2,
+            "image": "hocus_pocus_baubles.jpg"
+        }
     }
 
-]
+      ]
