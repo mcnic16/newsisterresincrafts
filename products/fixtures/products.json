@@ -146,7 +146,7 @@
             "description": "johnny",
             "price": 6.00,
             "category": 1,
-            "image": "johnnydepp.png"
+            "image": "johnny_depp_coasters.jpg"
         }
     }, {
         "pk": 16,
@@ -246,7 +246,7 @@
             "description": "Slasher horror coasters. £6 each or £20 for a set of 4.",
             "price": 6.00,
             "category": 1,
-            "image": "slashercoasters.jpg"
+            "image": "slasher_coasters.jpg"
         }
     }, {
         "pk": 26,
@@ -315,19 +315,109 @@
             "name": "Gold Leaf Phone Holder",
             "description": "Gold Leaf Phone Holder",
             "price": 6.00,
-            "category": 3,
+            "category": 2,
             "image": "gold_leaf_phone_holder.jpg"
         }
     }, {
         "pk": 33,
         "model": "products.product",
         "fields": {
-            "name": "Gold Leaf Phone Holder",
-            "description": "Gold Leaf Phone Holder",
+            "name": "Hocus Pocus Baubles",
+            "description": "Hocus Pocus Baubles",
             "price": 6.00,
             "category": 2,
             "image": "hocus_pocus_baubles.jpg"
         }
-    }
-
-      ]
+    }, {
+        "pk": 34,
+        "model": "products.product",
+        "fields": {
+            "name": "Hocus Pocus Sanderson Sisters Bauble",
+            "description": "Hocus Pocus Sanderson Sisters Bauble",
+            "price": 6.00,
+            "category": 3,
+            "image": "hocus_pocus_sanderson_sisters_bauble.jpg"
+        }
+    }, {
+        "pk": 35,
+        "model": "products.product",
+        "fields": {
+            "name": "Jason Vorhees Xmas Card",
+            "description": "Jason Vorhees Xmas Card",
+            "price": 6.00,
+            "category": 3,
+            "image": "jason_christmas_card.jpg"
+        }
+    }, {
+        "pk": 36,
+        "model": "products.product",
+        "fields": {
+            "name": "Make up Brush Holder",
+            "description": "Jason Vorhees Xmas Card",
+            "price": 6.00,
+            "category": 2,
+            "image": "make_up_brush_holder.jpg"
+        }
+    }, {
+        "pk": 37,
+        "model": "products.product",
+        "fields": {
+            "name": "Michael Myers Xmas Bauble",
+            "description": "Michael Myers Xmas Bauble",
+            "price": 6.00,
+            "category": 3,
+            "image": "michael_myers_bauble.jpg"
+        }
+    }, {
+        "pk": 38,
+        "model": "products.product",
+        "fields": {
+            "name": "mr_mrs_led_sign",
+            "description": "mr_mrs_led_sign",
+            "price": 6.00,
+            "category": 2,
+            "image": "mr_mrs_led_sign.jpg"
+        }
+    }, {
+        "pk": 39,
+        "model": "products.product",
+        "fields": {
+            "name": "mrs_doubtfire_coasters",
+            "description": "mrs_doubtfire_coasters",
+            "price": 6.00,
+            "category": 1,
+            "image": "mrs_doubtfire_coasters.jpeg"
+        }
+    }, {
+        "pk": 40,
+        "model": "products.product",
+        "fields": {
+            "name": "spookmas_baubles",
+            "description": "spookmas_baubles",
+            "price": 6.00,
+            "category": 3,
+            "image": "spookmas_baubles.jpg"
+        }
+    }, {
+        "pk": 40,
+        "model": "products.product",
+        "fields": {
+            "name": "the_craft_coasters",
+            "description": "the_craft_coasters",
+            "price": 6.00,
+            "category": 3,
+            "image": "the_craft_coasters.jpg"
+        }
+        }, {
+            "pk": 40,
+            "model": "products.product",
+            "fields": {
+                "name": "warning_coasters",
+                "description": "warning_coasters",
+                "price": 6.00,
+                "category": 1,
+                "image": "warning_coasters.jpg"
+            }
+        }
+        
+]
