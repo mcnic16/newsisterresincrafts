@@ -38,23 +38,26 @@
     <title>Sister Resin Craft {% block extra_title %}{% endblock %}</title>
 
 </head>
+<body>
+    <header class="container-fluid fixed-top">
+
+    {% if messages %}
+        <div class="message-container"></div>
+    {% endif %}
+
+    {% block page_header %}
+    {% endblock %}
+
+    {% block content %}
+    {% endblock %}
+
+    {% block postloadjs %}
+    {% endblock %}
 
     
-        <footer class="mt-auto">
-            <p>Social Links:</p>
-            <a href="https://www.facebook.com/pg/sisterresincrafts" target="_blank">
-                <i class="fab fa-facebook-square"></i>
-            </a>
+  </body>
+</html>
+
     
-            <a href="https://www.etsy.com/uk/market/resin_sister_gift" target="_blank">
-                <i class="fab fa-etsy"></i>
-            </a>
-    
-            <a href="https://www.instagram.com/sisters_resincraftsph/" target="_blank">
-                <i class="fab fa-instagram"></i>
-            </a>
-        </footer>
-      </body>
-    </html>
-   
-    
+  </body>
+</html>
